@@ -1,1 +1,4 @@
 Name : Toto
+Tel : 191
+Adress : Bangkok
+Birthday : 20/03/1993
